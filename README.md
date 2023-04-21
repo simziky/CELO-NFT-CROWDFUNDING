@@ -16,25 +16,25 @@ To get this project up running locally, follow these simple steps:
 ### 2.1 Clone the repository:
 
 ```bash
-git clone https://github.com/dacadeorg/celo-react-boilerplate.git
+git clone https://github.com/simziky/CELO-NFT-CROWDFUNDING
 ```
 
 ### 2.2 Navigate to the directory:
 
 ```bash
-cd celo-react-boilerplate
+cd CELO-NFT-CROWDFUNDING
 ```
 
 ### 2.3 Install the dependencies:
 
 ```bash
-npm install
+yarn install
 ```
 
 ### 2.4 Run the dapp:
 
 ```bash
-npm start
+yarn start
 ```
 
 To properly test the dapp you will need to have a Celo wallet with testnet tokens.
