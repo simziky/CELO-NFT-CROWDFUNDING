@@ -1,6 +1,6 @@
 ![give1](https://user-images.githubusercontent.com/68029274/233708726-c9b939e3-b2ed-4a14-b489-c29a5f675bca.PNG)
 ![give2](https://user-images.githubusercontent.com/68029274/233708833-6aa00087-c25c-4787-b686-216a9f56cfb4.PNG)
-# Celo React Boilerplate
+# Celo NFT CROWDFUNDING
 This repository contains a simple React boilerplate for Celo projects.
 
 ## 1. Tech Stack
