@@ -1,4 +1,5 @@
 {
+  "homepage": "https://${GithubUsername}.github.io/${RepositoryName}",
   "name": "celo-react-boilerplate",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,8 @@
     "bootstrap": "^5.1.3",
     "bootstrap-icons": "^1.7.1",
     "dotenv": "^10.0.0",
+    "gh-pages": "^5.0.0",
+    "install": "^0.13.0",
     "ipfs-http-client": "^59.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
@@ -33,7 +36,9 @@
     "eject": "react-scripts eject",
     "compile": "npx hardhat compile",
     "deploy": "npx hardhat run --network alfajores scripts/deploy.js",
-    "test-contract": "npx hardhat test"
+    "test-contract": "npx hardhat test",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
