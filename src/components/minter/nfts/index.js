@@ -29,7 +29,7 @@ const NftList = ({minterContract, name}) => {
   const {performActions, address} = useContractKit();
   const [nfts, setNfts] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [nftOwner, setNftOwner] = useState(null);
+  const [ setNftOwner] = useState(null);
 
   
   
@@ -79,7 +79,7 @@ const NftList = ({minterContract, name}) => {
     // get the address that deployed the NFT contract
     const _address = await fetchNftContractOwner(minterContract);
     setNftOwner(_address);
-  }, []);
+  }, [setNftOwner]);
 
   useEffect(() => {
     try {
