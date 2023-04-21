@@ -1,4 +1,6 @@
-# Celo React Boilerplate
+![give1](https://user-images.githubusercontent.com/68029274/233708726-c9b939e3-b2ed-4a14-b489-c29a5f675bca.PNG)
+![give2](https://user-images.githubusercontent.com/68029274/233708833-6aa00087-c25c-4787-b686-216a9f56cfb4.PNG)
+# Celo NFT CROWDFUNDING
 This repository contains a simple React boilerplate for Celo projects.
 
 ## 1. Tech Stack
@@ -16,32 +18,30 @@ To get this project up running locally, follow these simple steps:
 ### 2.1 Clone the repository:
 
 ```bash
-git clone https://github.com/dacadeorg/celo-react-boilerplate.git
+git clone https://github.com/simziky/CELO-NFT-CROWDFUNDING
 ```
 
 ### 2.2 Navigate to the directory:
 
 ```bash
-cd celo-react-boilerplate
+cd CELO-NFT-CROWDFUNDING
 ```
 
 ### 2.3 Install the dependencies:
 
 ```bash
-npm install
+yarn install
 ```
 
 ### 2.4 Run the dapp:
 
 ```bash
-npm start
+yarn start
 ```
 
 To properly test the dapp you will need to have a Celo wallet with testnet tokens.
 This learning module [NFT Contract Development with Hardhat](https://hackmd.io/exuZTH2hTqKytn2vxgDmcg) will walk you through the process of creating a Metamask wallet and claiming Alfajores testnet tokens.
 
-The boilerplate should behave like this:
-![](https://raw.githubusercontent.com/dacadeorg/celo-development-201/main/content/gifs/boilerplate_demo.gif)
 
 ## 3. Smart-Contract Deployment
 
