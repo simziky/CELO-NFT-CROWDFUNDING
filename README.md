@@ -40,8 +40,6 @@ yarn start
 To properly test the dapp you will need to have a Celo wallet with testnet tokens.
 This learning module [NFT Contract Development with Hardhat](https://hackmd.io/exuZTH2hTqKytn2vxgDmcg) will walk you through the process of creating a Metamask wallet and claiming Alfajores testnet tokens.
 
-The boilerplate should behave like this:
-![](https://raw.githubusercontent.com/dacadeorg/celo-development-201/main/content/gifs/boilerplate_demo.gif)
 
 ## 3. Smart-Contract Deployment
 
