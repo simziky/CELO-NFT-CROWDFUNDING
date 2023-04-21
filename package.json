@@ -1,5 +1,5 @@
 {
-  "homepage": "https://${GithubUsername}.github.io/${RepositoryName}",
+  "homepage": "https://${simziky}.github.io/${CELO-NFT-CROWDFUNDING}",
   "name": "celo-react-boilerplate",
   "version": "0.1.0",
   "private": true,
