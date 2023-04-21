@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/css/main.e1ce61ea.chunk.css",
-    "main.js": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/main.df55e5f6.chunk.js",
-    "main.js.map": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/main.df55e5f6.chunk.js.map",
+    "main.js": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/main.89d1829e.chunk.js",
+    "main.js.map": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/main.89d1829e.chunk.js.map",
     "runtime-main.js": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/runtime-main.ded6fc6a.js",
     "runtime-main.js.map": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/js/runtime-main.ded6fc6a.js.map",
     "static/css/2.28a493ea.chunk.css": "/$%7BCELO-NFT-CROWDFUNDING%7D/static/css/2.28a493ea.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.28a493ea.chunk.css",
     "static/js/2.796de5a9.chunk.js",
     "static/css/main.e1ce61ea.chunk.css",
-    "static/js/main.df55e5f6.chunk.js"
+    "static/js/main.89d1829e.chunk.js"
   ]
 }
