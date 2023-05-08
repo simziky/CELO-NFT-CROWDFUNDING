@@ -18,7 +18,7 @@ const NftCard = ({ nft }) => {
   const etherValue = fundsRaised / 10 ** 18;
 
 
-  const [ setLoading] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [donated, setDonated] = useState(etherValue);
   const [tokenId, setTokenId] = useState("");
   const [donationAmount, setDonationAmount] = useState("");

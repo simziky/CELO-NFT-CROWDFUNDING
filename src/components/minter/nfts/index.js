@@ -29,7 +29,7 @@ const NftList = ({minterContract, name}) => {
   const {performActions, address} = useContractKit();
   const [nfts, setNfts] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [ setNftOwner] = useState(null);
+  const [nftOwner, setNftOwner] = useState(null);
 
   
   
