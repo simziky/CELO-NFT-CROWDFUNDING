@@ -1,18 +1,23 @@
+/* This is the styling for the top-level container of the React app */
 .App {
   text-align: center;
 }
 
+/* This is the styling for the logo image in the app */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
+/* This media query applies the logo spin animation only when the user prefers motion */
 @media (prefers-reduced-motion: no-preference) {
+  /* This is the styling for the logo animation */
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
+/* This is the styling for the header container of the app */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -24,10 +29,12 @@
   color: white;
 }
 
+/* This is the styling for any links in the app */
 .App-link {
   color: #61dafb;
 }
 
+/* This is the keyframe animation for the logo spin */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
